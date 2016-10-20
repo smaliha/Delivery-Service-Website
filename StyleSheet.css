@@ -1,0 +1,118 @@
+﻿body {
+}
+.service{
+    width:79.5%;
+    background-color:yellow;
+    float:right;
+    height:880PX;
+    margin-top:-900px;
+    margin-left:65px;
+    border:double;
+}
+#ads{
+    width:100%;
+    height:10px;
+    margin-top:0px;
+}
+.ContactUs {
+font-size:30px;
+ margin-left:422px;
+ margin-top:-450px;
+}
+.service1{
+    width:19.7%;
+    //height:50px;
+    background-color:orange;
+    border:double;
+}
+.image{
+    float:right;
+}
+.service2{
+    margin-left:140px;
+    margin-top:100px;
+}
+.service3{
+    margin-top:180px;
+    font-style:Calibri;
+    font-size:35px;
+    color:Indigo;
+    
+}
+.accounts {
+ height:880PX;
+    margin-top:-900px;
+    margin-left:455px;
+    font-size: 30px;
+}
+.accounts2 {
+ font-size:30px;
+ margin-left:460px;
+ margin-top:-410px;
+}
+#h1{
+    margin-left:740px;
+    
+}
+#h2{
+    margin-top:-65px;
+}
+
+#login_radio {
+    height: 880px;
+    margin-top:-900px;
+    margin-left: 455px;
+    font-size: 30px;
+}
+#forgotPwdPage {
+    height: 880px;
+    margin-top:-900px;
+    margin-left: 455px;
+    font-size: 30px;
+}
+#abc{
+    font-size:30px;
+    margin-top:10px;
+}
+#createAcc_radio {
+    height: 880px;
+    margin-top: -900px;
+    margin-left: 455px;
+    font-size: 30px;
+}
+
+.radios {
+    margin-top: -900px;
+    margin-left: 455px;
+    font-size: 30px;
+}
+#align{
+ margin-left:85px;
+}
+#align1{
+    margin-left:55px;
+}
+#align2{
+    margin-left:79px;
+}
+#align3{
+    margin-left:5px;
+}
+#TextBox3{
+    margin-left:95px;
+}
+#TextBox4{
+    margin-left:135px;
+}
+#TextBox5{
+    margin-left:22px;
+}
+#TextBox6{
+    margin-left:42px;
+}
+#TextBox7{
+    margin-left:45px;
+}
+#TextBox8{
+    margin-left:69px;
+}

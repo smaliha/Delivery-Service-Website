@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Images/photo_delivery.jpg</ImageUrl>
+    <NavigateUrl>http://www.fedex.com/us/</NavigateUrl>
+    <AlternateText>FeDex Delivery Services</AlternateText>
+    <KeyWord> Delivery Services </KeyWord>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/DHL-Haverhill-MA.JPG</ImageUrl>
+    <NavigateUrl>http://www.dhl.com/en.html</NavigateUrl>
+    <AlternateText>DHL Services</AlternateText>
+    <KeyWord> Delivery Services </KeyWord>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/Xcel-Delivery-Service-Company-Logo.jpg</ImageUrl>
+    <NavigateUrl>https://www.xceldelivery.com/</NavigateUrl>
+    <AlternateText>Xcel Delivery Service</AlternateText>
+    <KeyWord> Delivery Services </KeyWord>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/ups-logo.jpg</ImageUrl>
+    <NavigateUrl>http://pages.ebay.com/help/buy/delivery-pickup-options.html</NavigateUrl>
+    <AlternateText>ebay delivery services</AlternateText>
+    <KeyWord> Delivery Services </KeyWord>
+  </Ad>
+</Advertisements>
